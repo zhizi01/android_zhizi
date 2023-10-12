@@ -1,4 +1,4 @@
-![f976633808e336bdcaab3d2c476dfdcb](https://github.com/zhizi01/android_zhizi/assets/88622750/5077202b-1a4c-4cb5-9643-314972426599)# DLL说明
+# DLL说明
 android_zhizi.dll 是一个 通过adb获取android基本信息的dll，最初开发目的是为了适配易语言。
 
 # 开发环境
